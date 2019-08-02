@@ -1,0 +1,10 @@
+name: app123
+title:
+username:
+account: exploratorydata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 775186
+bundleId: 1926087
+url: https://exploratorydata.shinyapps.io/app123/
+when: 1552075881.11808
